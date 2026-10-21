@@ -81,3 +81,5 @@ EXPOSE 8055
 CMD ["node", "docker-entrypoint.cjs"]
 
 # oct rerun directus cold 1
+
+# oct rerun directus cold 2
