@@ -89,3 +89,5 @@ CMD ["node", "docker-entrypoint.cjs"]
 # nov rerun directus cold 1
 
 # nov rerun directus cold 2
+
+# nov rerun directus cold 3
